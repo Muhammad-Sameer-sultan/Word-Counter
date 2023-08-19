@@ -7,7 +7,7 @@ function App() {
   return (
     <>
    
-<Navbar   title='sameer' link1='Home' link2="About"/>
+<Navbar   title='Word Counter' link1='Text Analyzer' link2="Tex Counter"/>
 <TextForm/>
     </>
          );
